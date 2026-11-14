@@ -1,12 +1,19 @@
 ## Olá 👋, eu sou Raynan Araujo
 <hr/>
 
-### Sou Desenvolvedor Full Stack, Baixista & Cubomaniaco
--🌱 Estou aprendendo sobre Docker e AWS
+### Backend Engineer | Node.js · Python · TypeScript
 
--💬 Me pergunte sobre NodeJs, ReactJs, SQL e noSQL
+Desenvolvedor com cerca de 3 anos de prática, atuando em sistemas de saúde usados em todo o Brasil na Horizonti Soluções Digitais. Foco em APIs, mensageria e integrações, com experiência full stack em React. Moro em Vila Velha, ES, e estou aberto a oportunidades remotas e híbridas.
 
--📫 Me contate em: [raynan.araujo@gmail.com](mailto:raynan.araujo@gmail.com)
+📨 Mensageria em Node.js com cerca de 600 mil mensagens por mês (WhatsApp e e-mail), usando Infobip, AWS SES e filas no GCP Pub/Sub
+
+☁️ Deploys no GCP (Cloud Run, Cloud Build, cron jobs), Kubernetes e análise de dados no BigQuery
+
+🧪 Testes com Jest, Git e Scrum no dia a dia
+
+🎓 Bacharelado em Sistemas de Informação na UVV (previsão dez/2027)
+
+📫 Contato: [raynan.araujo@gmail.com](mailto:raynan.araujo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/raynanaraujo/)
 
 ###
 
